@@ -68,7 +68,6 @@ A lightweight Security Operations Center (SOC) simulation built with Python and 
 
 ![Detection Engine](screenshots/detection-engine.png)
 
-
 ## 📊 Dashboard
 
 The Streamlit dashboard provides:
@@ -105,6 +104,11 @@ mini-soc/
 ├── sample_logs/
 │   ├── auth.log
 │   └── network.log
+│
+├── screenshots/
+│   ├── dashboard-overview.png
+│   ├── security-incidents.png
+│   └── detection-engine.png
 │
 ├── tests/
 │
@@ -236,4 +240,3 @@ Possible extensions include:
 **Rakshita Durairaj**
 
 Cybersecurity student interested in ethical hacking, network security, digital defence, and security operations.
-```
