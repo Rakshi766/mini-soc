@@ -64,6 +64,10 @@ A lightweight Security Operations Center (SOC) simulation built with Python and 
 
 ![Security Incidents](screenshots/security-incidents.png)
 
+### 🔍 Detection Engine
+
+![Detection Engine](screenshots/detection-engine.png)
+
 
 ## 📊 Dashboard
 
