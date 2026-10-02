@@ -54,6 +54,17 @@ A lightweight Security Operations Center (SOC) simulation built with Python and 
 | Suspicious Login After Failed Attempts | CRITICAL | T1078 |
 | Possible Port Scan | HIGH | T1046 |
 
+## 📸 Screenshots
+
+### 🛡️ Dashboard Overview
+
+![Mini SOC Dashboard](screenshots/dashboard-overview.png)
+
+### 🚨 Security Incidents & Response
+
+![Security Incidents](screenshots/security-incidents.png)
+
+
 ## 📊 Dashboard
 
 The Streamlit dashboard provides:
