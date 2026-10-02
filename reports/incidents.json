@@ -7,7 +7,7 @@
         "severity": "CRITICAL",
         "mitre_attack": "T1078",
         "status": "ALERT",
-        "timestamp": "2026-10-01T01:46:54.877924"
+        "timestamp": "2026-10-02T15:22:11.242935"
     },
     {
         "attack": "SSH Brute Force",
@@ -17,7 +17,7 @@
         "severity": "HIGH",
         "mitre_attack": "T1110",
         "status": "ALERT",
-        "timestamp": "2026-10-01T01:46:54.877939"
+        "timestamp": "2026-10-02T15:22:11.242952"
     },
     {
         "attack": "Possible Port Scan",
@@ -26,6 +26,6 @@
         "severity": "HIGH",
         "mitre_attack": "T1046",
         "status": "ALERT",
-        "timestamp": "2026-10-01T01:46:54.878063"
+        "timestamp": "2026-10-02T15:22:11.242998"
     }
 ]
