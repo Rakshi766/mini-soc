@@ -1,0 +1,31 @@
+[
+    {
+        "attack": "Suspicious Login After Failed Attempts",
+        "source_ip": "192.168.1.50",
+        "target_user": "admin",
+        "failed_attempts": 10,
+        "severity": "CRITICAL",
+        "mitre_attack": "T1078",
+        "status": "ALERT",
+        "timestamp": "2026-10-01T01:46:54.877924"
+    },
+    {
+        "attack": "SSH Brute Force",
+        "source_ip": "192.168.1.50",
+        "target_user": "admin",
+        "failed_attempts": 10,
+        "severity": "HIGH",
+        "mitre_attack": "T1110",
+        "status": "ALERT",
+        "timestamp": "2026-10-01T01:46:54.877939"
+    },
+    {
+        "attack": "Possible Port Scan",
+        "source_ip": "192.168.1.70",
+        "ports_contacted": 10,
+        "severity": "HIGH",
+        "mitre_attack": "T1046",
+        "status": "ALERT",
+        "timestamp": "2026-10-01T01:46:54.878063"
+    }
+]

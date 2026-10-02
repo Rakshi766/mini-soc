@@ -1,0 +1,10 @@
+Sep 28 10:05:01 firewall: Connection from 192.168.1.70 to port 21
+Sep 28 10:05:02 firewall: Connection from 192.168.1.70 to port 22
+Sep 28 10:05:03 firewall: Connection from 192.168.1.70 to port 23
+Sep 28 10:05:04 firewall: Connection from 192.168.1.70 to port 25
+Sep 28 10:05:05 firewall: Connection from 192.168.1.70 to port 53
+Sep 28 10:05:06 firewall: Connection from 192.168.1.70 to port 80
+Sep 28 10:05:07 firewall: Connection from 192.168.1.70 to port 110
+Sep 28 10:05:08 firewall: Connection from 192.168.1.70 to port 143
+Sep 28 10:05:09 firewall: Connection from 192.168.1.70 to port 443
+Sep 28 10:05:10 firewall: Connection from 192.168.1.70 to port 3306

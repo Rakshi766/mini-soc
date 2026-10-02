@@ -1,0 +1,13 @@
+cat > ../sample_logs/auth.log <<'EOF'
+Sep 28 12:00:01 server sshd[101]: Failed password for user admin from 192.168.1.50 port 42001 ssh2
+Sep 28 12:00:02 server sshd[102]: Failed password for user admin from 192.168.1.50 port 42002 ssh2
+Sep 28 12:00:03 server sshd[103]: Failed password for user admin from 192.168.1.50 port 42003 ssh2
+Sep 28 12:00:04 server sshd[104]: Failed password for user admin from 192.168.1.50 port 42004 ssh2
+Sep 28 12:00:05 server sshd[105]: Failed password for user admin from 192.168.1.50 port 42005 ssh2
+Sep 28 12:00:06 server sshd[106]: Failed password for user admin from 192.168.1.50 port 42006 ssh2
+Sep 28 12:00:07 server sshd[107]: Failed password for user admin from 192.168.1.50 port 42007 ssh2
+Sep 28 12:00:08 server sshd[108]: Failed password for user admin from 192.168.1.50 port 42008 ssh2
+Sep 28 12:00:09 server sshd[109]: Failed password for user admin from 192.168.1.50 port 42009 ssh2
+Sep 28 12:00:10 server sshd[110]: Failed password for user admin from 192.168.1.50 port 42010 ssh2
+Sep 28 12:00:11 server sshd[111]: Accepted password for user admin from 192.168.1.50 port 42011 ssh2
+EOF
